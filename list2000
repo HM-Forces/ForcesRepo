@@ -1,0 +1,6 @@
+IQ: What is the umask value for a normal user and the rootUser?
+IQ: What is the umask value?
+    It is use to define file/dir Permissions at creation.  
+
+            normal user        rootUser
+simon
